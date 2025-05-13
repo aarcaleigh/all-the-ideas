@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: T
+    description: "Start of the THANKYOU chain."
+  - name: H
+    description: "Second letter in the THANKYOU DAG."
+  - name: A
+    description: "Keeps the sentiment flowing."
+  - name: N
+    description: "Almost halfway through!"
+  - name: K
+    description: "You got this."
+  - name: Y
+    description: "Bringing the energy."
+  - name: O
+    description: "Second to last stop."
+  - name: U
+    description: "Delivers the full thank-you message."
